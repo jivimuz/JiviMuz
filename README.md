@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jivirasgal@gmail.com**
 
-- 📄 Know about my experiences [http://jivimuz.github.io](http://jivimuz.github.io)
+- 📄 My CV Profile is here ->> [http://jivimuz.github.io](http://jivimuz.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
