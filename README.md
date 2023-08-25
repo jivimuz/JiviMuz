@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jivi Muzaqi Guntur</h1>
-<h3 align="center">I have passion in web programming using PHP Native, Laravel, CI3/4 & Yii2</h3>
+<h3 align="center">Unleashing the digital wizardry, crafting lines of code to conquer the virtual realm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivimuz&label=Profile%20views&color=0e75b6&style=flat" alt="jivimuz" /> </p>
 
