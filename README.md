@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🖋 Languages</h3>
+<h3 align="left">🖋 Languages and Frameworks :</h3>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">🛢Databases and tools</h3>
+<h3 align="left">🛢Databases and tools :</h3>
 
 ###
 
