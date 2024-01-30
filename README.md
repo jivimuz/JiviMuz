@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Unleashing the digital wizardry, crafting lines of code to conquer the virtual realm.<br> <br><br>📄 My CV Profile is here ->> http://jivimuz.github.io<br> <br></p>
+<!-- <p align="left">Unleashing the digital wizardry, crafting lines of code to conquer the virtual realm.<br> <br><br>📄 My CV Profile is here ->> http://jivimuz.github.io<br> <br></p> -->
 
 ###
 
