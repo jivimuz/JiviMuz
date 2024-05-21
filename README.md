@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivimuz&label=Profile%20views&color=0e75b6&style=flat" alt="jivimuz" /> </p>
 
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F6tXM&psig=AOvVaw1tZbS7sUAwAqpliA__Vy50&ust=1716367716916000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC4vZKunoYDFQAAAAAdAAAAABBB"  />
+  <img height="150" src="https://i.gifer.com/6tXM.gif"  />
 </div>
 
 ###
