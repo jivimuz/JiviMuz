@@ -1,4 +1,3 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivimuz&label=Profile%20views&color=0e75b6&style=flat" alt="jivimuz" /> </p>
 
 <div align="center">
@@ -21,14 +20,13 @@
 
 ###
 
-
 ###
 
 <h1 align="center">Hello 👋, I'm Jivi Muzaqi Guntur</h1>
 
 ###
 
-<p align="left">⚠️⚠️⚠️ currently not active on github due to project in gitlab! ⚠️⚠️⚠️<br> <br></p> 
+<h5 align="center">⚠️⚠️⚠️ currently not active on github due to project in gitlab/bitbucket since jan 2025 ! ⚠️⚠️⚠️<br> <br></h5>
 
 ###
 
