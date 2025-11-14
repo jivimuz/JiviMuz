@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="center">⚠️⚠️⚠️ currently not active on github due to project in gitlab/bitbucket since jan 2025 ! ⚠️⚠️⚠️<br> <br></h5>
+<h5 align="center">⚠️⚠️⚠️ currently not active on github due to project in other CI/CD! ⚠️⚠️⚠️<br> <br></h5>
 
 ###
 
